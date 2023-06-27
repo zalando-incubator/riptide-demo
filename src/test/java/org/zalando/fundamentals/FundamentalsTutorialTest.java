@@ -1,4 +1,4 @@
-package org.zalando;
+package org.zalando.fundamentals;
 
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

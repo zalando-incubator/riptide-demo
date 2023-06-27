@@ -1,4 +1,4 @@
-package org.zalando;
+package org.zalando.fundamentals;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.SneakyThrows;
