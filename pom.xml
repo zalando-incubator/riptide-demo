@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.zalando</groupId>
-    <artifactId>riptide-examples</artifactId>
+    <artifactId>riptide-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>Riptide Examples</name>
-    <url>https://github.com/zalando/riptide</url>
+    <name>Riptide Demo</name>
+    <url>https://github.com/zalando-incubator/riptide-demo</url>
 
     <organization>
         <name>Zalando SE</name>
@@ -28,8 +28,8 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <jackson.version>2.14.2</jackson.version>
         <riptide.version>3.4.0</riptide.version>
+        <jackson.version>2.14.2</jackson.version>
         <junit-jupiter.version>5.9.2</junit-jupiter.version>
         <slf4j.version>1.7.36</slf4j.version>
     </properties>
