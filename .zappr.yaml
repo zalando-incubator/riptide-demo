@@ -6,3 +6,5 @@ approvals:
       from:
         orgs:
           - "zalando"
+
+X-Zalando-Type: code
