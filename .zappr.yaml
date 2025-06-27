@@ -1,0 +1,11 @@
+# for github.com
+approvals:
+  groups:
+    zalando:
+      minimum: 2
+      from:
+        orgs:
+          - "zalando"
+
+X-Zalando-Type: code
+X-Zalando-Team: zcpe
